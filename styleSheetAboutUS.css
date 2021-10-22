@@ -34,9 +34,5 @@ footer {
   text-decoration: none;
   font-size: 20px
 }
-.navigationbar a:hover {
-  background-color: black
-  color: white;
-}
 .navigationbar a.active {
   background-color: #315CD9;
